@@ -7,7 +7,7 @@ Data Analyst
 I enjoy building projects that can solve my day-to-day problems, from automating & sorting simple downloads to summarizing the latest market news. My favorite language is Python due to its succintness. Besides my day job, I also dabble in video games, board games, hiking, and practicing martial arts.
 
 * 🌍  I'm based in Bellevue, WA
-* 🖥️  See my portfolio at [https://khiemnguyen.netlify.app/](http://khiemnguyen.netlify.app/)
+* 🖥️  See my portfolio at [https://kayng2901.github.io/khiemnguyen.github.io/](https://kayng2901.github.io/khiemnguyen.github.io/)
 * ✉️  You can contact me at [nguyengiakhiem2901@gmail.com](mailto:nguyengiakhiem2901@gmail.com)
 
 ### Skills
