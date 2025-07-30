@@ -1,7 +1,7 @@
 Hi 👋 My name is Khiem Nguyen
 =============================
 
-Data Analyst
+Business Intelligence Analyst
 ------------
 
 I enjoy building projects that can solve my day-to-day problems, from automating & sorting simple downloads to summarizing the latest market news. My favorite language is Python due to its succintness. Besides my day job, I also dabble in video games, board games, hiking, and practicing martial arts.
